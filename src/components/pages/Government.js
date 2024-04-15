@@ -2,17 +2,18 @@ import React, { Component } from "react";
 import "./Government.css";
 
 const nh_exec = [
-  { title: "President", ppl: [{ name: "Christian Camacho", kerb: "beastboy" }] },
-  { title: "Vice President", ppl: [{ name: "Haris Imamović", kerb: "imhari" }] },
-  { title: "Tresurer", ppl: [{ name: "Katherine Miner", kerb: "keminer" }] },
-  { title: "Secretary", ppl: [{ name: "Margaret Wang", kerb: "mqwang" }] },
-  { title: "Housing Chair", ppl: [{ name: "Andrew Jiang", kerb: "linjiang" }] },
-  { title: "Wellness Chair", ppl: [{ name: "Ivy Liu", kerb: "iliu" }] },
-  { title: "Social Chair", ppl: [{ name: "Haris Imamović", kerb: "imhari" }, { name: "Reng Zheng", kerb: "rengz" }] },
-  { title: "CPW/REX Chair", ppl: [{ name: "Reng Zheng", kerb: "rengz" }] },
-  { title: "Web Chair (Best Chair)", ppl: [{ name: "Thelonious Cooper", kerb: "theloni" }] },
-  { title: "Facilities Chair", ppl: [{ name: "David Kwabi-Addo", kerb: "dkwabiad" }] },
-  { title: "Makerspace Chair", ppl: [{ name: "Tamara Hinderman", kerb: "tnh8210" }, { name: "Tyrin-Ian Todd", kerb: "tytodd" }] }
+  { title: "President", ppl: [{ name: "David Kwabi-Addo", kerb: "dkwabiad" }]},
+  { title: "Vice President", ppl: [{ name: "Fatima Hernandez", kerb: "fhernand" }]},
+  { title: "Treasurer", ppl: [{ name: "YC Li", kerb: "yuecli" }]},
+  { title: "Webmaster", ppl: [{ name: "YC Li", kerb: "yuecli" }]},
+  { title: "Secretary", ppl: [{ name: "Amanda Hulver", kerb: "ahulver" }]},
+  { title: "Housing Chair", ppl: [{ name: "Sasha Krigel", kerb: "skrigel" }]},
+  { title: "Facilities Chair", ppl: [{ name: "Eileen Zu", kerb: "zuleen" }]},
+  { title: "Wellness Chair", ppl: [{ name: "Kailyn Gustafon", kerb: "kgusty" }, { name: "Paola Namphy", kerb: "paolanam" }]},
+  { title: "Makerspace Chair", ppl: [{ name: "Ty Todd", kerb: "tytodd" }, { name: "Reng Zheng", kerb: "rengz" }]},
+  { title: "Social Chair", ppl: [{ name: "Vernon Lin", kerb: "vsl" }, { name: "Anisha Parsan", kerb: "aparsan" }]},
+  { title: "Sustainability Chair", ppl: [{ name: "Tony Jimenez", kerb: "tonyjj13" }, { name: "Fiona Shangguan", kerb: "fionawsh" }]},
+  { title: "CPW/REX Chair", ppl: [{ name: "Rishab Parthasarathy", kerb: "rpartha" }, { name: "Amanda Cheng", kerb: "amandach" }]},
 ];
 const GRAs = [
   {house:"iHouse", ppl:[{name: "Madeline Garcia", kerb:"mkgarcia"}]},
