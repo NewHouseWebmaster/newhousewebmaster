@@ -36,7 +36,8 @@ class About extends Component {
       </div>
 
         {/* <a target="_blank" href="https://nh.scripts.mit.edu:444/Apps/Guests/guestList/" className='intro-button'>Resident Guest List</a>      </div> */}
-        <a target="_blank" href="https://newhousereservations.skedda.com/booking" className='intro-button'>Room Reservations</a></div>
+        {/* <a target="_blank" href="https://newhousereservations.skedda.com/booking" className='intro-button'>Room Reservations</a></div> */}
+        <a target="_blank" href="https://nh.xvm.mit.edu" className='intro-button'>Room Reservations</a></div>
 
 
       <div>
